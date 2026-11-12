@@ -1,2 +1,2 @@
-# The-ultimate-AI-resume maker
+# The-ultimate-AI resume maker
 
